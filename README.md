@@ -13,6 +13,7 @@ npm install --save zooid-form-field
 ## Props
 | Prop      | Type   | Default | Description                          |
 | ----------| -------| --------| -------------------------------------|
+| children | node |         | Form elements to be shown in the form field |
 | className | string |         | Additional css classes to merge into the component |
 
 
