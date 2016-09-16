@@ -1,9 +1,12 @@
 # zooid-form-field
 
 [![Build Status](https://travis-ci.org/octoblu/zooid-form-field.svg?branch=master)](https://travis-ci.org/octoblu/zooid-form-field)
-[![npm version](https://badge.fury.io/js/zooid-form-field.svg)](http://badge.fury.io/js/zooid-form-field)
-[![Code Climate](https://codeclimate.com/github/octoblu/zooid-form-field.png)](https://codeclimate.com/github/octoblu/zooid-form-field)
+[![Test Coverage](https://codecov.io/gh/octoblu/zooid-form-field/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/zooid-form-field)
+[![Dependency status](http://img.shields.io/david/octoblu/zooid-form-field.svg?style=flat)](https://david-dm.org/octoblu/zooid-form-field)
+[![devDependency Status](http://img.shields.io/david/dev/octoblu/zooid-form-field.svg?style=flat)](https://david-dm.org/octoblu/zooid-form-field#info=devDependencies)
 [![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
+
+[![NPM](https://nodei.co/npm/zooid-form-field.svg?style=flat)](https://npmjs.org/package/zooid-form-field)
 
 ## Install
 ```
